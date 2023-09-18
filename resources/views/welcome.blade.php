@@ -22,10 +22,28 @@
                     <tbody>
                        
                         <tr>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
+                            <td>A12C980987</td>
+                            <td>asam sulfur</td>
+                            <td>nitorgren hibrida</td>
+                            <td>120 ml</td>
+                            <td>Local</td>
+                            <td>9893123980761</td>
+                        </tr>
+                        <tr>
+                            <td>B12C980987</td>
+                            <td>asam sulfur</td>
+                            <td>nitorgren hibrida</td>
+                            <td>120 ml</td>
+                            <td>Local</td>
+                            <td>9893123980761</td>
+                        </tr>
+                        <tr>
+                            <td>B12C980987</td>
+                            <td>asam sulfur</td>
+                            <td>nitorgren hibrida</td>
+                            <td>120 ml</td>
+                            <td>Export</td>
+                            <td>9893123980761</td>
                         </tr>
                     </tbody>
                 </table>
