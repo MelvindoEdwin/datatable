@@ -15,8 +15,10 @@
                         <tr>
                             <th>Item Code</th>
                             <th>Description 1</th>
-                            <th>Description 1</th>
-                            <th>Get In time</th>
+                            <th>Description 2</th>
+                            <th>Volume</th>
+                            <th>Destination</th>
+                            <th>GTHIN</th>
                         </tr>
                     </thead>
                     <tbody>
